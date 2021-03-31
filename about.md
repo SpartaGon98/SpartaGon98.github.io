@@ -3,12 +3,11 @@ layout: page
 title: About
 permalink: /about/
 ---
-
-Some information about you!
+My name is Espartaco Renzo Andre Daniel Gonzalez Arteaga
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I was born in Mexico, raised in China, now I live in Canada
 
 ### Contact me
 
